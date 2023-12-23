@@ -1,4 +1,5 @@
-![logo](
+![logo](https://github.com/30047shivam/30047shivam/blob/main/AIML-CBIT.gif)
+<h1 align="center">Hiiiiii,I'am SHIVAM MISHRA</h1>
 <h3 align="center">A PASSIONATE AI/ML LEARNER</h3>
 <img align="right" alt="coding"width="400"src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ciettic2a8tjn30tw3jqimto35msydwzm13ufghr&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
